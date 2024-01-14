@@ -2,10 +2,10 @@
 
 Bem-vindo ao repositório do curso "Iniciante em Programação" da Alura! Este repositório contém os projetos e exercícios desenvolvidos ao longo do curso, utilizando a linguagem JavaScript.
 <div style="display: flex; justify-content: space-around;">
-  <img src="./logica-programacao-mergulhe-programacao-javascript.svg" alt="Alura - Iniciante em Programação" width="150" heigth="150"/>
-  <img src="./logica-programacao-funcoes-listas.svg" alt="Alura - Iniciante em Programação" width="150" heigth="150"/>
-  <img src="./git-github-compartilhando-colaborando-projetos.svg" alt="Alura - Iniciante em Programação" width="150" heigth="150"/>
-  <img src="./logica-programacao-praticando-desafios.svg" alt="Alura - Iniciante em Programação" width="150" heigth="150"/>
+  <img src="./logica-programacao-mergulhe-programacao-javascript.svg" alt="Alura - Iniciante em Programação" width="100" heigth="100"/>
+  <img src="./logica-programacao-funcoes-listas.svg" alt="Alura - Iniciante em Programação" width="100" heigth="100"/>
+  <img src="./git-github-compartilhando-colaborando-projetos.svg" alt="Alura - Iniciante em Programação" width="100" heigth="100"/>
+  <img src="./logica-programacao-praticando-desafios.svg" alt="Alura - Iniciante em Programação" width="100" heigth="100"/>
 </div>
 
 ## Sobre o Curso
