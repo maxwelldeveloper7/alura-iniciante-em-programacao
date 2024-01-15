@@ -1,10 +1,49 @@
 alert('Boas vindas ao jogo do número secreto');
-let numeroSecreto = 5;
 let chute = prompt('Escolha um número entre 1 e 10');
+console.log('Valor do chute:', chute);
+let numeroSecreto = 5;
+console.log('Resultado da comparação:', chute == numeroSecreto);
 
 if (chute == numeroSecreto){
-    console.log('Isso ai! Você descobriu o número secreto (5)');
+    alert('Acertou');
+    //alert(`Isso ai! Você descobriu o número ${numeroSecreto}`);
+} else{
+    //alert('Você errou :(');
+    console.log('Valor do número secreto:', numeroSecreto);
+    alert('O número secreto era ' + numeroSecreto);
 }
+
+// /**
+//  * Desafio 2
+//  */
+
+// let diaDaSemana = prompt('Qual é o dia da semana?');
+// if(diaDaSemana == 'Domingo' || diaDaSemana == 'Sábado'){
+//     alert('Bom fim de senama!');
+// }else{
+//     alert('Boa Semana!');
+// }
+
+// let numero = prompt('Digite um número positivo ou negativo:');
+// if(numero > 0){
+//     alert('O número '+numero+' é positivo');
+// }else{
+//     alert('O número '+numero+' é negativo');
+// }
+
+// let pontuacao = prompt('Informe a pontuação:')
+// if( pontuacao >= 100){
+//     alert('Parabéns, você venceu!');
+// }else{
+//     alert('Tente novamente para ganhar.')
+// }
+
+// let saldo = 10000;
+// alert(`Seu saldo em conta é ${saldo}`);
+
+// let nome = prompt('Informe o seu nome');
+// alert(`Bem vindo ${nome}!`)
+
 
 // /**
 //  * Desafio 1
