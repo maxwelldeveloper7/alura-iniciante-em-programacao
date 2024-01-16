@@ -18,7 +18,7 @@ while(chute != numeroSecreto){
     }
     
 }
-let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa'
+let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 alert(`Isso ai! Você descobriu o número ${numeroSecreto} com ${tentativas} ${palavraTentativa}.`);
 
 // if(tentativas > 1){
